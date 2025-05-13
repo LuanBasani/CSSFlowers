@@ -1,8 +1,8 @@
 .love-message {
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-20%, -50%);
   font-size: 1.8rem;
   color: #fff;
   text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
